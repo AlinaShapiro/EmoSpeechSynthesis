@@ -1,0 +1,2 @@
+-r FastPitch/requirements.txt
+-r SpeechT5/requirements.txt
