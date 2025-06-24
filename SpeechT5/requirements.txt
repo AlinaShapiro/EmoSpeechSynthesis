@@ -1,0 +1,10 @@
+torch
+torchaudio
+speechbrain
+git+https://github.com/huggingface/transformers.git
+accelerate
+datasets
+librosa
+soundfile
+tensorboardX
+TextGrid
