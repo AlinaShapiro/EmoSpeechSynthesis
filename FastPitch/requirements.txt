@@ -1,0 +1,15 @@
+wget
+unidecode
+pynini==2.1.4
+scipy==1.7.3
+numpy==2.2.0
+scikit-learn
+librosa
+numba
+torch
+soundfile
+textgrid
+tqdm
+matplotlib
+ipython
+nemo_toolkit[all] @ git+https://github.com/NVIDIA/NeMo.git@main
