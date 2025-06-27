@@ -29,3 +29,8 @@ Speech quality and emotional expressiveness were evaluated using:
 git clone https://github.com/your-username/emotional-speech-synthesis.git
 cd emotional-speech-synthesis
 pip install -r requirements.txt
+```
+
+## Results of generated speech
+
+Results of generated speech can be accessed via [gdrive link](https://drive.google.com/drive/folders/1h_hFiDUF-91LwaCDNIos2ZzQYCKceyEI?usp=sharing).
